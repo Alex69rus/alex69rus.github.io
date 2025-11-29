@@ -121,7 +121,11 @@ Tver State Technical University, Russia (2017–2021)
 ## 📫 **Contact**
 
 **📍 Dubai, UAE**
+
 **📧 [knice271@mail.ru](mailto:knice271@mail.ru)**
+
 **🔗 LinkedIn:** [https://www.linkedin.com/in/aleksei-kukharev-aa5569176/](https://www.linkedin.com/in/aleksei-kukharev-aa5569176/)
+
+**👨‍💻 [GitHub](https://github.com/Alex69rus)**
 
 ---
